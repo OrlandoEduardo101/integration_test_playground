@@ -59,4 +59,4 @@ void main() {
 // patrol test android --target integration_test/widget_patrol_test.dart
 // windows: patrol test android --target integration_test\widget_patrol_test.dart
 // windows: patrol build android --target integration_test\widget_patrol_test.dart
-
+// gcloud firebase test android run --type instrumentation --app build/app/outputs/apk/debug/app-debug.apk --test build/app/outputs/apk/androidTest/debug/app-debug-androidTest.apk --timeout 1m 

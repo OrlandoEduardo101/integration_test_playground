@@ -32,9 +32,11 @@ gutil CLI: https://cloud.google.com/sdk/docs/install
 gcloud firebase test android run: https://cloud.google.com/sdk/gcloud/reference/firebase/test/android/run
 
 - gutil init: 
+
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/d23f8705-3374-4074-93d0-97a544d36f5d)
 
 - Run test:
+
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/88f493a6-68d0-4c7d-99f0-23f67aa49926)
 
 
