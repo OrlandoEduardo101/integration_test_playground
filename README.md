@@ -39,6 +39,14 @@ gcloud firebase test android run: https://cloud.google.com/sdk/gcloud/reference/
 
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/88f493a6-68d0-4c7d-99f0-23f67aa49926)
 
+![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/423a4540-25da-495a-a7bb-957c5e734620)
+
+![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/03efbc0d-8375-46a1-8517-c5fb8dc27be0)
+
+
+Firebase test farm video:
+https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/c959f469-4f0a-45f7-8c76-f16bc751791f
+
 
 
 
