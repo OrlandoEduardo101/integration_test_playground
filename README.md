@@ -14,6 +14,10 @@ A new Flutter project.
 
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/a747a708-ec18-4c62-8795-ee419ecb8b8f)
 
+![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/781b41f7-a53f-49af-9cab-3dc7aa3ab648)
+
+![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/1d9a93cc-4709-4c63-9182-671d4b756e43)
+
 
 
 ## Getting Started
