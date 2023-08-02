@@ -26,8 +26,12 @@ A new Flutter project.
 
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/5469d2e3-637c-4160-a857-e95f64f3f5f6)
 
+Run firebase test lab with gsutil CLI
 
+gutil CLI: https://cloud.google.com/sdk/docs/install
+gcloud firebase test android run: https://cloud.google.com/sdk/gcloud/reference/firebase/test/android/run
 
+![image](https://github.com/OrladoEduardo101/integration_test_playground/assets/37966182/5c67cb87-8417-498a-852a-e79876ee2a5b)
 
 ## Getting Started
 
