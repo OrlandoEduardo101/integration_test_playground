@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://medium.flutterdevs.com/flutter-integration-tests-on-firebase-test-lab-b07bcd9f801f
+
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/9deaba95-0c67-41f1-9af5-baca4575e980)
 
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/09d52fef-3bf2-46b7-a7db-ffff6b28630d)
