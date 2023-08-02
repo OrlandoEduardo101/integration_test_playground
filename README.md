@@ -1,5 +1,7 @@
 # integration_test_playground
 
+Patrol: https://patrol.leancode.co/getting-started/getting-started
+
 A new Flutter project.
 
 ![image](https://github.com/OrlandoEduardo101/integration_test_playground/assets/37966182/9deaba95-0c67-41f1-9af5-baca4575e980)
